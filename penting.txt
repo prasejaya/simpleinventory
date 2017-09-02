@@ -1,0 +1,2 @@
+insert into tbl_pengumuman(idpenjualan,iduser,isbaca) 
+select kd_penjualan,kd_pelanggan,'0'
